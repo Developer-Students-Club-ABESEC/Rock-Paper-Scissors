@@ -18,6 +18,6 @@
 
 <br />
 
-## KEEP CONTRIBUTING AS CONTRIBUTIONS ARE COMMEMORATED♥
+## Happy hacking : )
 
 

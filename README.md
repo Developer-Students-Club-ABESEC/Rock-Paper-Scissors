@@ -10,9 +10,9 @@
 ```
 -> Download or clone the repository
 -> Fork the repository
--> Run it on your IDE
+-> Run it on your IDE (for example: VS Code)
 -> Contribute to it
--> And finally make a Pull Request(make sure to add a readme which contains the image of the modified project).
+-> And finally make a Pull Request (make sure to add a readme which contains the image of the modified project).
 
 ```
 

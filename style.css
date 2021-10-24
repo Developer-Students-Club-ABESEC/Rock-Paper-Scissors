@@ -101,11 +101,15 @@ i#scissors {
   display: inline-block;
 }
 .right {
-  position:absolute;
-  right:200px;
-  margin:0;
-  top:45%;
-  transform: translateY(-55%);
+  position: absolute;
+  bottom: 2vh;
+  transform: translate(50%,-50%);
+  right: 50%;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  gap: 7vh;
 }
 .refresh {
   position: relative;

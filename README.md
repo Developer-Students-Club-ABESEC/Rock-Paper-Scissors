@@ -4,20 +4,25 @@
 
 ## FOR ANY DOUBT CONTACT ANUJ
 
+
 ## How to use it
 
 
 ```
--> Download or clone the repository
--> Fork the repository
--> Run it on your IDE
--> Contribute to it
--> And finally make a Pull Request(make sure to add a readme which contains the image of the modified project).
+1. Fork the repository
+2. Download or clone the repository
+3. Run it on your IDE
+4. Do contribution
+5. And finally make a Pull Request(make sure to add a readme which contains the image of the modified project).
 
 ```
 
 <br />
 
+
 ## Happy hacking : )
 
+
+
+### KEEP CONTRIBUTING AS CONTRIBUTIONS ARE COMMEMORATED♥
 

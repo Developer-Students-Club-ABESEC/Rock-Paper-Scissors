@@ -6,7 +6,7 @@
 body{
   /* background: url(./assets/farouk-mechedal-iWmfPbKmxEQ-unsplash.jpg)
   no-repeat center center/cover; */
-  background-color: #5986c9;
+  background: url("../images/bgweb.png");
 }
 .top{padding:50px;}
 .box {
@@ -16,7 +16,7 @@ body{
   padding:18px;
   background-color:white;
   text-align:center;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'VT323', monospace;
   font-weight:normal;
 }
 ul {
@@ -101,6 +101,7 @@ i#scissors {
   display: inline-block;
 }
 .right {
+  font-family: 'VT323', monospace;
   position: absolute;
   bottom: 2vh;
   transform: translate(50%,-50%);
